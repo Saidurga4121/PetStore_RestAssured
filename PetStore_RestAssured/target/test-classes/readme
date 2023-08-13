@@ -1,0 +1,14 @@
+//
+in order to execute the testcases in command prompt ...we need to install maven in our system
+
+install maven zip and put it in c drive.. and paste the bin path in advanced system settings in path
+
+// to run from cmd
+cd project location
+
+mvn test....this will automatically pick the pom.xml file from your project
+
+mvn clean .....will delete all the unneccesary files
+
+mvn clean test..........will delete and execute
+
